@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-created by Arun bind.
+Created by Arun Bind.
